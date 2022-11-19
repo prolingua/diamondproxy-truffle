@@ -9,7 +9,7 @@
 + go to https://louper.dev/ to setup the proxy and add the facets
 
 
-A sample of deployedaddresses: 
+A sample of deployed addresses: 
 DiamondProxy:   0x3daCB8C0cb0d83a011d9095a653F23190F67D2f7
 ReadMessage:    0xeB13148d6E8d040B8eb5b6ab6c420E330303d75C
 WriteMessage:   0x83Adaf33Af820cdc52cB168F9BEd520C4Dc1eB4A
